@@ -1,0 +1,9 @@
+# Ignore everything in the .config folder
+/*
+
+# But include the following folders
+!/i3
+!/rofi
+!/polybar
+!/albert.conf
+!/picom.conf
